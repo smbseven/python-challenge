@@ -44,27 +44,3 @@ analysis_file=os.path.join("analysis","anlysis.txt")
 with open(analysis_file,"w") as f:
     print(x,file=f)
 # print(Total_profit,month_counter,greatest_dec,great_d_mo,greatest_inc,great_i_mo,average_profit)
-# print("- - - - - - - - - - - - - - - - - - - - - - ")
-# Print("!             Financial Analysis           !")
-# Print("- - - - - - - - - - - - - - - - - - - - - - ")
-# Print("Total Months =" month_counter)
-# Print("Total =")
-
-        # counter for months
-
-
-        # print(', '.join(row))
-        # CSV Reader works
-
- # len(csvreader)
-    # print (len(csvfile))
-    # # print(first_row)
-
-
-
-# print(pybank_csv)
-# def prof_loss (pybank_data):
-#     month = str(pybank_data [0])
-#     p_l_value = int(pybank_data[1])
-#     print (p_l_value)
-#     print (prof_loss)
